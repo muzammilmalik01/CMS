@@ -47,8 +47,9 @@ APK: https://drive.google.com/drive/folders/17TnITYIJOYgTniPAnxZIgSz663Pbmzqv?us
     - **Admin ID:** 5629
       
 ## Screenshots
-![Screenshot_20240116_195124_CMS](https://github.com/muzammilmalik01/CMS/assets/109786469/a0758c11-7555-4444-af88-643c7d1bfd46)
-![Screenshot_20240116_195201_CMS](https://github.com/muzammilmalik01/CMS/assets/109786469/86ce3f04-8f3e-4d8d-8f14-b150943d95e9)
-![Screenshot_20240116_195223_CMS](https://github.com/muzammilmalik01/CMS/assets/109786469/d5271880-a61f-43c4-a769-3611dcc4290b)
-![Screenshot_20240116_195448_CMS](https://github.com/muzammilmalik01/CMS/assets/109786469/36c25fff-de7d-4a25-9d6f-829f16bfc5dd)
-![Screenshot_20240116_200430_CMS](https://github.com/muzammilmalik01/CMS/assets/109786469/77e0bf82-1343-48a6-8bb0-6288ace49bd4)
+<img src="https://github.com/muzammilmalik01/CMS/assets/109786469/a0758c11-7555-4444-af88-643c7d1bfd46" width="300" alt="Screenshot 1">
+<img src="https://github.com/muzammilmalik01/CMS/assets/109786469/86ce3f04-8f3e-4d8d-8f14-b150943d95e9" width="300" alt="Screenshot 2">
+<img src="https://github.com/muzammilmalik01/CMS/assets/109786469/d5271880-a61f-43c4-a769-3611dcc4290b" width="300" alt="Screenshot 3">
+<img src="https://github.com/muzammilmalik01/CMS/assets/109786469/36c25fff-de7d-4a25-9d6f-829f16bfc5dd" width="300" alt="Screenshot 4">
+<img src="https://github.com/muzammilmalik01/CMS/assets/109786469/77e0bf82-1343-48a6-8bb0-6288ace49bd4" width="300" alt="Screenshot 5">
+
